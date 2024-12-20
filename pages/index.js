@@ -1,10 +1,5 @@
 function Home() {
-  return (
-    <h1>
-      Não vou deixar que a morte alcance a mim, até eu ser o maior espadachim!
-      🚀
-    </h1>
-  );
+  return <h1>Raphael come meu cu, por favor!</h1>;
 }
 
 export default Home;
