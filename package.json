@@ -16,8 +16,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "next": "^13.1.6",
+    "next": "^15.1.7",
     "pg": "^8.11.3",
+    "postgres": "^3.4.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
